@@ -1,0 +1,3 @@
+icacls.exe comp-sec_key.pem /reset
+icacls.exe comp-sec_key.pem /grant:r "nazmu:(r)"
+icacls.exe comp-sec_key.pem /inheritance:r

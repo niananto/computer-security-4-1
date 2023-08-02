@@ -1,0 +1,9 @@
+cmd:
+
+ssh -i <private key path> niananto@4.240.104.70
+ssh -i comp-sec_key.pem niananto@4.240.104.70
+
+tigervnc:
+
+4.240.104.70:5901
+4.240.104.70:5902 ...
